@@ -175,7 +175,7 @@
                   "typeHandlerVersion": "2.15",
                   "autoUpgradeMinorVersion": true,
                 "settings": {
-                  "modulesUrl": "https://github.com/mikepfeiffer/basic-win-arm-template/blob/master/WindowsWebServer.ps1.zip",
+                  "modulesUrl": "https://github.com/mikepfeiffer/basic-win-arm-template/raw/master/WindowsWebServer.ps1.zip",
                   "WmfVersion": "4.0",
                   "configurationFunction": "WindowsWebServer.ps1\\WindowsWebServer",
                   "properties": {
