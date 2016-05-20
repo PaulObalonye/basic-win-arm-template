@@ -81,7 +81,7 @@
             }
           },
           {
-            "name": "Rdp Remote Access",
+            "name": "RdpRemoteAccess",
             "properties": {
               "description": "Allow access to TCP 3389",
               "protocol": "Tcp",
