@@ -14,8 +14,7 @@
       "type": "securestring",
       "metadata": {
         "description": "Password for the Virtual Machine."
-      },
-      "defaultValue": "P@ssw0rd123"
+      }
     }
   },
   "variables": {
